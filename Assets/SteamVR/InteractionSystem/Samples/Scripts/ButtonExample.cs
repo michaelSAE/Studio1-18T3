@@ -7,11 +7,12 @@ namespace Valve.VR.InteractionSystem
     {
         public HoverButton hoverButton;
 
-        public GameObject prefab;
+        public GameObject prefab;  
 
         private void Start()
         {
             hoverButton.onButtonDown.AddListener(OnButtonDown);
+           
         }
 
         private void OnButtonDown(Hand hand)
@@ -21,6 +22,9 @@ namespace Valve.VR.InteractionSystem
 
         private IEnumerator DoPlant()
         {
+            //MB  loading a scene
+          //  SteamVR_LoadLevel.Begin("Scene_01");
+
             GameObject planting = GameObject.Instantiate<GameObject>(prefab);
             planting.transform.position = this.transform.position;
             planting.transform.rotation = Quaternion.Euler(0, Random.value * 360f, 0);

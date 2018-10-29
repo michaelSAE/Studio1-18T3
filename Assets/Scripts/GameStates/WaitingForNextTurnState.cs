@@ -29,7 +29,8 @@ namespace GameStates {
 		}
 
 		public override void FixedUpdate() {
-			Debug.Log(redBalls.GetComponentsInChildren<Transform>().Length);
+            //MB
+		//	Debug.Log(redBalls.GetComponentsInChildren<Transform>().Length);
 			if (redBalls.GetComponentsInChildren<Transform>().Length == 1) {
 				gameController.EndMatch();
 			} else {
