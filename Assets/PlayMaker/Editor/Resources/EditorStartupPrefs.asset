@@ -15,5 +15,9 @@ MonoBehaviour:
   playmakerVersion: 
   showWelcomeScreen: 1
   showUpgradeGuide: 0
+<<<<<<< HEAD
   lastAutoUpdateSignature: 
+=======
+  lastAutoUpdateSignature: '2018.2.1f1__C:/Users/gespino2/Documents/GitHub/Studio1-18T3/Assets__ '
+>>>>>>> c3e78d4c1dd172b8228855c15c5ae8184c00685c
   useLegacyNetworking: 0
