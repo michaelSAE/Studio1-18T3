@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 283c653fc06258a45a1cad24abb6696c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: casing
+    100002: drawer_1
+    100004: drawer_2
+    100006: drawer_3
+    100008: drawer_handle_1
+    100010: drawer_handle_2
+    100012: drawer_handle_3
+    100014: foot1
+    100016: foot2
+    100018: foot3
+    100020: foot4
+    100022: l_door
+    100024: l_handle
+    100026: r_door1
+    100028: r_handle
+    100030: shelf_1
+    100032: shelf_2
+    100034: shelf_3
+    100036: //RootNode
+    400000: casing
+    400002: drawer_1
+    400004: drawer_2
+    400006: drawer_3
+    400008: drawer_handle_1
+    400010: drawer_handle_2
+    400012: drawer_handle_3
+    400014: foot1
+    400016: foot2
+    400018: foot3
+    400020: foot4
+    400022: l_door
+    400024: l_handle
+    400026: r_door1
+    400028: r_handle
+    400030: shelf_1
+    400032: shelf_2
+    400034: shelf_3
+    400036: //RootNode
+    2100000: feet
+    2100002: base
+    2100004: shelf
+    2100006: thatch
+    2100008: brass
+    2300000: casing
+    2300002: drawer_1
+    2300004: drawer_2
+    2300006: drawer_3
+    2300008: drawer_handle_1
+    2300010: drawer_handle_2
+    2300012: drawer_handle_3
+    2300014: foot1
+    2300016: foot2
+    2300018: foot3
+    2300020: foot4
+    2300022: l_door
+    2300024: l_handle
+    2300026: r_door1
+    2300028: r_handle
+    2300030: shelf_1
+    2300032: shelf_2
+    2300034: shelf_3
+    3300000: casing
+    3300002: drawer_1
+    3300004: drawer_2
+    3300006: drawer_3
+    3300008: drawer_handle_1
+    3300010: drawer_handle_2
+    3300012: drawer_handle_3
+    3300014: foot1
+    3300016: foot2
+    3300018: foot3
+    3300020: foot4
+    3300022: l_door
+    3300024: l_handle
+    3300026: r_door1
+    3300028: r_handle
+    3300030: shelf_1
+    3300032: shelf_2
+    3300034: shelf_3
+    4300000: foot1
+    4300002: foot2
+    4300004: foot3
+    4300006: foot4
+    4300008: casing
+    4300010: shelf_1
+    4300012: shelf_2
+    4300014: shelf_3
+    4300016: r_door1
+    4300018: r_handle
+    4300020: l_door
+    4300022: l_handle
+    4300024: drawer_1
+    4300026: drawer_handle_1
+    4300028: drawer_2
+    4300030: drawer_handle_2
+    4300032: drawer_3
+    4300034: drawer_handle_3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
