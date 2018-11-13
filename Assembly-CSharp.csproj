@@ -1133,6 +1133,7 @@
     <Compile Include="Assets\Scripts\LaserlightScript.cs" />
     <Compile Include="Assets\Scripts\LaserScript.cs" />
     <Compile Include="Assets\Scripts\LevelGUITextScript.cs" />
+    <Compile Include="Assets\Scripts\LightSwitch.cs" />
     <Compile Include="Assets\Scripts\MainMenuScript.cs" />
     <Compile Include="Assets\Scripts\Managers\GameManager.cs" />
     <Compile Include="Assets\Scripts\Managers\MusicManager.cs" />
@@ -1375,6 +1376,7 @@
     <None Include="Assets\PlayMaker\Templates\Readme.txt" />
     <None Include="Assets\PlayMaker\Readme.txt" />
     <None Include="Assets\EffectExamples\Shared\Shaders\SurfaceShader_VC.shader" />
+    <None Include="Assets\Shaders\Standard Two Sided Soft Blend.shader" />
     <None Include="Assets\SteamVR\Resources\SteamVR_ClearAll.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Hints\Shaders\ControllerButtonHints.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Samples\BuggyBuddy\Materials\LightCone.shader" />

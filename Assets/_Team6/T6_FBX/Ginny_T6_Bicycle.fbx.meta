@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 42045dbdbdbe51f44973cb458bac8471
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Chain3
+    100004: Frame
+    100006: pGear1
+    100008: pGear2
+    100010: pGear3
+    100012: pGear4
+    100014: pGear5
+    100016: pGear6
+    100018: Tyer
+    100020: WheelCental1
+    100022: WheelCental2
+    100024: WheelCon
+    100026: WheelFrame1
+    100028: WheelFrame2
+    400000: //RootNode
+    400002: Chain3
+    400004: Frame
+    400006: pGear1
+    400008: pGear2
+    400010: pGear3
+    400012: pGear4
+    400014: pGear5
+    400016: pGear6
+    400018: Tyer
+    400020: WheelCental1
+    400022: WheelCental2
+    400024: WheelCon
+    400026: WheelFrame1
+    400028: WheelFrame2
+    2100000: aiStandardSurface_Bicycke_SV
+    2100002: aiStandardSurface_Tyre
+    2100004: aiStandardSurface_Bicycke_Red
+    2100006: aiStandardSurface_Bicycke_BK
+    2100008: aiStandardSurface_Bicycke_DSV
+    2300000: Chain3
+    2300002: Frame
+    2300004: pGear1
+    2300006: pGear2
+    2300008: pGear3
+    2300010: pGear4
+    2300012: pGear5
+    2300014: pGear6
+    2300016: Tyer
+    2300018: WheelCental1
+    2300020: WheelCental2
+    2300022: WheelCon
+    2300024: WheelFrame1
+    2300026: WheelFrame2
+    3300000: Chain3
+    3300002: Frame
+    3300004: pGear1
+    3300006: pGear2
+    3300008: pGear3
+    3300010: pGear4
+    3300012: pGear5
+    3300014: pGear6
+    3300016: Tyer
+    3300018: WheelCental1
+    3300020: WheelCental2
+    3300022: WheelCon
+    3300024: WheelFrame1
+    3300026: WheelFrame2
+    4300000: Tyer
+    4300002: Frame
+    4300004: WheelCon
+    4300006: WheelCental1
+    4300008: WheelFrame1
+    4300010: WheelCental2
+    4300012: WheelFrame2
+    4300014: pGear1
+    4300016: pGear2
+    4300018: pGear3
+    4300020: pGear4
+    4300022: pGear5
+    4300024: pGear6
+    4300026: Chain3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface_Bicycke_BK
+    second: {fileID: 2100000, guid: 43aa66100ae947e4b8ad8d0da1a96372, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface_Bicycke_DSV
+    second: {fileID: 2100000, guid: 863c09ba5cbbf24409f85204e9975f0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface_Bicycke_Red
+    second: {fileID: 2100000, guid: 63cdc33dbfcf5fa40a4743d39c343c9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface_Bicycke_SV
+    second: {fileID: 2100000, guid: 7fde6791098cbc4409cf305cd15c41a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface_Tyre
+    second: {fileID: 2100000, guid: afe81ec6d01dfad41ab982a3b83f2dfc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
