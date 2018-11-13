@@ -12,7 +12,7 @@ public class PlayerController : MonoBehaviour
 
     //MB
     public SteamVR_Action_Vector2 touchPadAction;
-    
+
 
     Vector2 _dest = Vector2.zero;
     Vector2 _dir = Vector2.zero;
@@ -111,17 +111,17 @@ public class PlayerController : MonoBehaviour
     void ReadInputAndMove()
     {
         Vector2 touchpadValue = touchPadAction.GetAxis(SteamVR_Input_Sources.Any);
-     
+
         // move closer to destination
         Vector2 p = Vector2.MoveTowards(transform.position, _dest, speed);
         GetComponent<Rigidbody2D>().MovePosition(p);
 
         // get the  direction from touchpad
-        
-        if (touchpadValue.x > 0.5 ) _nextDir = Vector2.right;
-        if (touchpadValue.x < -0.5) _nextDir = Vector2.left;
-        if (touchpadValue.y > 0.5) _nextDir = Vector2.up;
-        if (touchpadValue.y < -0.5) _nextDir = Vector2.down;
+
+        if (touchpadValue.x > 0.2) _nextDir = Vector2.right;
+        if (touchpadValue.x < -0.2) _nextDir = Vector2.left;
+        if (touchpadValue.y > 0.2) _nextDir = Vector2.up;
+        if (touchpadValue.y < -0.2) _nextDir = Vector2.down;
 
         /*
         // if getting direction from keyboard

@@ -170,9 +170,7 @@ public class GameManager : MonoBehaviour {
 
     public void LoseLife()
     {
-         //MB shuld be lives --
-       // lives--;
-        lives++;
+        lives--;
         gameState = GameState.Dead;
     
         // update UI too

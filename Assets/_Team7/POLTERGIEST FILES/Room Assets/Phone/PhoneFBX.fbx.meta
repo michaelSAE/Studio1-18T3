@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: b8f51d3030dcbfd4eb62737a85996f9c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: base
+    100002: Button
+    100004: Button0
+    100006: Button2
+    100008: Button3
+    100010: Button4
+    100012: Button5
+    100014: Button6
+    100016: Button7
+    100018: Button8
+    100020: Button9
+    100022: button_bases
+    100024: ButtonHash
+    100026: buttons1
+    100028: ButtonStar
+    100030: feet
+    100032: l_hande
+    100034: large_button
+    100036: phone
+    100038: //RootNode
+    100040: r_handle
+    400000: base
+    400002: Button
+    400004: Button0
+    400006: Button2
+    400008: Button3
+    400010: Button4
+    400012: Button5
+    400014: Button6
+    400016: Button7
+    400018: Button8
+    400020: Button9
+    400022: button_bases
+    400024: ButtonHash
+    400026: buttons1
+    400028: ButtonStar
+    400030: feet
+    400032: l_hande
+    400034: large_button
+    400036: phone
+    400038: //RootNode
+    400040: r_handle
+    2100000: base1
+    2100002: Phone
+    2100004: holders
+    2100006: buttons
+    2100008: feet1
+    2300000: base
+    2300002: Button
+    2300004: Button0
+    2300006: Button2
+    2300008: Button3
+    2300010: Button4
+    2300012: Button5
+    2300014: Button6
+    2300016: Button7
+    2300018: Button8
+    2300020: Button9
+    2300022: button_bases
+    2300024: ButtonHash
+    2300026: ButtonStar
+    2300028: feet
+    2300030: l_hande
+    2300032: large_button
+    2300034: phone
+    2300036: r_handle
+    3300000: base
+    3300002: Button
+    3300004: Button0
+    3300006: Button2
+    3300008: Button3
+    3300010: Button4
+    3300012: Button5
+    3300014: Button6
+    3300016: Button7
+    3300018: Button8
+    3300020: Button9
+    3300022: button_bases
+    3300024: ButtonHash
+    3300026: ButtonStar
+    3300028: feet
+    3300030: l_hande
+    3300032: large_button
+    3300034: phone
+    3300036: r_handle
+    4300000: base
+    4300002: phone
+    4300004: l_hande
+    4300006: r_handle
+    4300008: large_button
+    4300010: button_bases
+    4300012: feet
+    4300014: Button
+    4300016: Button2
+    4300018: Button3
+    4300020: Button4
+    4300022: Button5
+    4300024: Button6
+    4300026: Button7
+    4300028: Button8
+    4300030: Button9
+    4300032: Button0
+    4300034: ButtonHash
+    4300036: ButtonStar
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

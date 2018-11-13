@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 476b92c18919de54a96ca689bcba9815
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cont_base
+    100004: cont_button
+    100006: cont_stick
+    100008: cord
+    100010: l_plas_1
+    100012: l_plas_2
+    100014: l_plas_3
+    100016: l_plas_4
+    100018: lever_1
+    100020: lever_2
+    100022: lever_3
+    100024: lever_4
+    100026: metal
+    100028: plastic
+    100030: plastic_surrounding
+    100032: slider_1
+    100034: slider_2
+    100036: slider_plas
+    100038: wood_front
+    400000: //RootNode
+    400002: cont_base
+    400004: cont_button
+    400006: cont_stick
+    400008: cord
+    400010: l_plas_1
+    400012: l_plas_2
+    400014: l_plas_3
+    400016: l_plas_4
+    400018: lever_1
+    400020: lever_2
+    400022: lever_3
+    400024: lever_4
+    400026: metal
+    400028: plastic
+    400030: plastic_surrounding
+    400032: slider_1
+    400034: slider_2
+    400036: slider_plas
+    400038: wood_front
+    2100000: metal_base
+    2100002: plastic_matte
+    2100004: outside_plastic
+    2100006: wood
+    2100008: dark_metal
+    2100010: brushed_metal
+    2100012: cont_base1
+    2100014: cont_button1
+    2100016: cont_lever
+    2100018: rubber_cord
+    2300000: cont_base
+    2300002: cont_button
+    2300004: cont_stick
+    2300006: cord
+    2300008: l_plas_1
+    2300010: l_plas_2
+    2300012: l_plas_3
+    2300014: l_plas_4
+    2300016: lever_1
+    2300018: lever_2
+    2300020: lever_3
+    2300022: lever_4
+    2300024: metal
+    2300026: plastic
+    2300028: plastic_surrounding
+    2300030: slider_1
+    2300032: slider_2
+    2300034: slider_plas
+    2300036: wood_front
+    3300000: cont_base
+    3300002: cont_button
+    3300004: cont_stick
+    3300006: cord
+    3300008: l_plas_1
+    3300010: l_plas_2
+    3300012: l_plas_3
+    3300014: l_plas_4
+    3300016: lever_1
+    3300018: lever_2
+    3300020: lever_3
+    3300022: lever_4
+    3300024: metal
+    3300026: plastic
+    3300028: plastic_surrounding
+    3300030: slider_1
+    3300032: slider_2
+    3300034: slider_plas
+    3300036: wood_front
+    4300000: metal
+    4300002: plastic
+    4300004: plastic_surrounding
+    4300006: wood_front
+    4300008: l_plas_1
+    4300010: l_plas_2
+    4300012: l_plas_3
+    4300014: l_plas_4
+    4300016: slider_plas
+    4300018: lever_1
+    4300020: lever_2
+    4300022: lever_3
+    4300024: lever_4
+    4300026: slider_1
+    4300028: slider_2
+    4300030: cont_base
+    4300032: cont_button
+    4300034: cont_stick
+    4300036: cord
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
