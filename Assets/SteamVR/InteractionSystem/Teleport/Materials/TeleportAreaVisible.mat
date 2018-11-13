@@ -49,7 +49,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: f33ccd07f9433f44f8c5430938b168ac, type: 3}
+        m_Texture: {fileID: 2800000, guid: 5a1c7b73f5d486640b1368b6baadbb23, type: 3}
         m_Scale: {x: 20, y: 20}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -80,7 +80,7 @@ Material:
     - _BumpScale: 1
     - _ColorMask: 15
     - _Cutoff: 0.5
-    - _Darken: 0.641
+    - _Darken: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 10
     - _Emission: 0.01
@@ -95,7 +95,7 @@ Material:
     - _OcclusionStrengthIndirectDiffuse: 1
     - _OcclusionStrengthIndirectSpecular: 1
     - _Parallax: 0.02
-    - _SeeThru: 0.358
+    - _SeeThru: 0
     - _SpecularMode: 2
     - _SrcBlend: 1
     - _Stencil: 0
@@ -120,7 +120,7 @@ Material:
     - _EmissionColorUI: {r: 1, g: 1, b: 1, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
     - _Specular: {r: 0, g: 0, b: 0, a: 0}
-    - _TintColor: {r: 0.22033198, g: 0.41133347, b: 0.516, a: 0.453}
+    - _TintColor: {r: 0.23584908, g: 0.17518063, b: 0.034487363, a: 0.453}
     - g_vWorldAlignedNormalTangentU: {r: -1, g: 0, b: 0, a: 0}
     - g_vWorldAlignedNormalTangentV: {r: 0, g: 0, b: 1, a: 0}
     - g_vWorldAlignedTextureNormal: {r: 0, g: 1, b: 0, a: 0}
