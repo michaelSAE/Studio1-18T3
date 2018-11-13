@@ -85,27 +85,27 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: aiStandardSurface_Bicycke_BK
-    second: {fileID: 2100000, guid: 6f323edde8cc14fcd8753544d07c6455, type: 2}
+    second: {fileID: 2100000, guid: 43aa66100ae947e4b8ad8d0da1a96372, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: aiStandardSurface_Bicycke_DSV
-    second: {fileID: 2100000, guid: dbeb35dfd61284025a9fa8cadf48f8d8, type: 2}
+    second: {fileID: 2100000, guid: 863c09ba5cbbf24409f85204e9975f0f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: aiStandardSurface_Bicycke_Red
-    second: {fileID: 2100000, guid: 0c94d4bd25614496faebfbc3df3539a4, type: 2}
+    second: {fileID: 2100000, guid: 63cdc33dbfcf5fa40a4743d39c343c9a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: aiStandardSurface_Bicycke_SV
-    second: {fileID: 2100000, guid: 2da5e75d8372f4fc1819fb99a582e3d5, type: 2}
+    second: {fileID: 2100000, guid: 7fde6791098cbc4409cf305cd15c41a5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: aiStandardSurface_Tyre
-    second: {fileID: 2100000, guid: 9e7073c95eb3d484e9c5ec92e19fd14e, type: 2}
+    second: {fileID: 2100000, guid: afe81ec6d01dfad41ab982a3b83f2dfc, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
