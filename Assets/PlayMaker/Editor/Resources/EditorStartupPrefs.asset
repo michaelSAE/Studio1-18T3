@@ -15,5 +15,9 @@ MonoBehaviour:
   playmakerVersion: 
   showWelcomeScreen: 0
   showUpgradeGuide: 1
+<<<<<<< HEAD
   lastAutoUpdateSignature: '2018.2.1f1__C:/Users/ebraysmith/Desktop/Studio1/Studio1-18T3/Assets__ '
+=======
+  lastAutoUpdateSignature: '2018.2.1f1__C:/Users/mrrid/Desktop/Studio 1/Studio1-18T3/Assets__ '
+>>>>>>> 68078bcaa31e5d948004e45842fc75d1b0aeeb54
   useLegacyNetworking: 0
