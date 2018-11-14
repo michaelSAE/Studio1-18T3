@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 953e594e487e86943aed50f946b39001
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back_wheels
+    100002: Body
+    100004: Front_wheels
+    100006: Hand_bar
+    100008: Handle
+    100010: Left_Handle
+    100012: Left_Handle1
+    100014: Left_Moon
+    100016: Middle
+    100018: nail_UV1
+    100020: nail_UV11
+    100022: nail_UV12
+    100024: nail_UV13
+    100026: nail_UV14
+    100028: nail_UV15
+    100030: nail_UV16
+    100032: nail_UV2
+    100034: //RootNode
+    100036: Right_Moon1
+    100038: Wheel1
+    100040: Wheel2
+    100042: Wheel3
+    100044: Wheel4
+    400000: back_wheels
+    400002: Body
+    400004: Front_wheels
+    400006: Hand_bar
+    400008: Handle
+    400010: Left_Handle
+    400012: Left_Handle1
+    400014: Left_Moon
+    400016: Middle
+    400018: nail_UV1
+    400020: nail_UV11
+    400022: nail_UV12
+    400024: nail_UV13
+    400026: nail_UV14
+    400028: nail_UV15
+    400030: nail_UV16
+    400032: nail_UV2
+    400034: //RootNode
+    400036: Right_Moon1
+    400038: Wheel1
+    400040: Wheel2
+    400042: Wheel3
+    400044: Wheel4
+    2100000: nails
+    2100002: Wheels
+    2100004: handle
+    2100006: body
+    2100008: Left_side_moon
+    2100010: wood
+    2300000: Hand_bar
+    2300002: Left_Handle
+    2300004: Left_Handle1
+    2300006: Left_Moon
+    2300008: Middle
+    2300010: nail_UV1
+    2300012: nail_UV11
+    2300014: nail_UV12
+    2300016: nail_UV13
+    2300018: nail_UV14
+    2300020: nail_UV15
+    2300022: nail_UV16
+    2300024: nail_UV2
+    2300026: Right_Moon1
+    2300028: Wheel1
+    2300030: Wheel2
+    2300032: Wheel3
+    2300034: Wheel4
+    3300000: Hand_bar
+    3300002: Left_Handle
+    3300004: Left_Handle1
+    3300006: Left_Moon
+    3300008: Middle
+    3300010: nail_UV1
+    3300012: nail_UV11
+    3300014: nail_UV12
+    3300016: nail_UV13
+    3300018: nail_UV14
+    3300020: nail_UV15
+    3300022: nail_UV16
+    3300024: nail_UV2
+    3300026: Right_Moon1
+    3300028: Wheel1
+    3300030: Wheel2
+    3300032: Wheel3
+    3300034: Wheel4
+    4300000: nail_UV1
+    4300002: Wheel2
+    4300004: Wheel4
+    4300006: nail_UV12
+    4300008: nail_UV2
+    4300010: Wheel1
+    4300012: Wheel3
+    4300014: nail_UV11
+    4300016: nail_UV13
+    4300018: nail_UV14
+    4300020: nail_UV15
+    4300022: nail_UV16
+    4300024: Left_Handle
+    4300026: Hand_bar
+    4300028: Left_Handle1
+    4300030: Middle
+    4300032: Left_Moon
+    4300034: Right_Moon1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

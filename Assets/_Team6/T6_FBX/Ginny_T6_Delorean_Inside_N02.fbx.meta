@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: e2097965e84cb7e44b7bef43e1ed6130
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CodeBox1
+    100004: CodeBoxB0Seat
+    100006: CodeBoxB1Seat
+    100008: CodeBoxB2Seat
+    100010: CodeBoxB3Seat
+    100012: CodeBoxB4Seat
+    100014: CodeBoxB5Seat
+    100016: CodeBoxB6Seat
+    100018: CodeBoxB7Seat
+    100020: CodeBoxB8Seat
+    100022: CodeBoxB9Seat
+    100024: CodeBoxBlack_Glass
+    100026: CodeBoxBlack_Light
+    100028: CodeBoxGreen_Glass
+    100030: CodeBoxGreen_Light
+    100032: CodeBoxRed_Glass
+    100034: CodeBoxRed_Light
+    100036: CodeBoxWhite_Glass
+    100038: CodeBoxWhite_Light
+    100040: CodeBoxYellow_Glass
+    100042: CodeBoxYellow_Light
+    400000: //RootNode
+    400002: CodeBox1
+    400004: CodeBoxB0Seat
+    400006: CodeBoxB1Seat
+    400008: CodeBoxB2Seat
+    400010: CodeBoxB3Seat
+    400012: CodeBoxB4Seat
+    400014: CodeBoxB5Seat
+    400016: CodeBoxB6Seat
+    400018: CodeBoxB7Seat
+    400020: CodeBoxB8Seat
+    400022: CodeBoxB9Seat
+    400024: CodeBoxBlack_Glass
+    400026: CodeBoxBlack_Light
+    400028: CodeBoxGreen_Glass
+    400030: CodeBoxGreen_Light
+    400032: CodeBoxRed_Glass
+    400034: CodeBoxRed_Light
+    400036: CodeBoxWhite_Glass
+    400038: CodeBoxWhite_Light
+    400040: CodeBoxYellow_Glass
+    400042: CodeBoxYellow_Light
+    2100000: Delorean_In_aiStandardSurface_KeyB
+    2100002: aiStandardSurface_Light
+    2100004: aiStandardSurface_BGlass
+    2100006: aiStandardSurface_Glass
+    2100008: aiStandardSurface_Light_Green
+    2100010: aiStandardSurface_GGlass
+    2100012: aiStandardSurface_Light_Yellow
+    2100014: aiStandardSurface_YGlass
+    2100016: aiStandardSurface_Light_Red
+    2100018: aiStandardSurface_RGlass
+    2300000: CodeBox1
+    2300002: CodeBoxB0Seat
+    2300004: CodeBoxB1Seat
+    2300006: CodeBoxB2Seat
+    2300008: CodeBoxB3Seat
+    2300010: CodeBoxB4Seat
+    2300012: CodeBoxB5Seat
+    2300014: CodeBoxB6Seat
+    2300016: CodeBoxB7Seat
+    2300018: CodeBoxB8Seat
+    2300020: CodeBoxB9Seat
+    2300022: CodeBoxBlack_Glass
+    2300024: CodeBoxBlack_Light
+    2300026: CodeBoxGreen_Glass
+    2300028: CodeBoxGreen_Light
+    2300030: CodeBoxRed_Glass
+    2300032: CodeBoxRed_Light
+    2300034: CodeBoxWhite_Glass
+    2300036: CodeBoxWhite_Light
+    2300038: CodeBoxYellow_Glass
+    2300040: CodeBoxYellow_Light
+    3300000: CodeBox1
+    3300002: CodeBoxB0Seat
+    3300004: CodeBoxB1Seat
+    3300006: CodeBoxB2Seat
+    3300008: CodeBoxB3Seat
+    3300010: CodeBoxB4Seat
+    3300012: CodeBoxB5Seat
+    3300014: CodeBoxB6Seat
+    3300016: CodeBoxB7Seat
+    3300018: CodeBoxB8Seat
+    3300020: CodeBoxB9Seat
+    3300022: CodeBoxBlack_Glass
+    3300024: CodeBoxBlack_Light
+    3300026: CodeBoxGreen_Glass
+    3300028: CodeBoxGreen_Light
+    3300030: CodeBoxRed_Glass
+    3300032: CodeBoxRed_Light
+    3300034: CodeBoxWhite_Glass
+    3300036: CodeBoxWhite_Light
+    3300038: CodeBoxYellow_Glass
+    3300040: CodeBoxYellow_Light
+    4300000: CodeBoxB0Seat
+    4300002: CodeBoxB9Seat
+    4300004: CodeBoxB8Seat
+    4300006: CodeBoxB7Seat
+    4300008: CodeBoxB6Seat
+    4300010: CodeBoxB5Seat
+    4300012: CodeBoxB4Seat
+    4300014: CodeBoxB3Seat
+    4300016: CodeBoxB2Seat
+    4300018: CodeBoxB1Seat
+    4300020: CodeBoxBlack_Light
+    4300022: CodeBoxBlack_Glass
+    4300024: CodeBoxWhite_Light
+    4300026: CodeBoxWhite_Glass
+    4300028: CodeBoxGreen_Light
+    4300030: CodeBoxGreen_Glass
+    4300032: CodeBoxYellow_Light
+    4300034: CodeBoxYellow_Glass
+    4300036: CodeBoxRed_Light
+    4300038: CodeBoxRed_Glass
+    4300040: CodeBox1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Delorean_In_aiStandardSurface_KeyB
+    second: {fileID: 2100000, guid: 6e93d99c755cd4951ab9fba93a614d37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface_BGlass
+    second: {fileID: 2100000, guid: 59668eb55ccba44788c096d8d35803fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface_GGlass
+    second: {fileID: 2100000, guid: e9b49b6cead114a67a7b85def5f20498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface_Glass
+    second: {fileID: 2100000, guid: 9e07bc7fc270944998d287d61534b79b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface_Light
+    second: {fileID: 2100000, guid: 7390d48fb8646442b8da71950dd33b41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface_Light_Green
+    second: {fileID: 2100000, guid: 39dc856d7c8234d01bd9a4c926657495, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface_Light_Red
+    second: {fileID: 2100000, guid: 7a28d27c679bf4735a2d145f3b6b5087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface_Light_Yellow
+    second: {fileID: 2100000, guid: da10a5d54c0d041f3b9c31a5be4d352c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface_RGlass
+    second: {fileID: 2100000, guid: c4b118ce8f2934e6e8889d89b1399c7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface_YGlass
+    second: {fileID: 2100000, guid: 20fdb54c163bd4ed5b0191c88eacf47c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

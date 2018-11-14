@@ -4,6 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
+<<<<<<< HEAD
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/MASTER SCENE.unity
@@ -18,3 +19,6 @@ EditorBuildSettings:
     path: Assets/_Team7/Scenes/Poltergiest Bedroom.unity
     guid: 90eb132404c594542a2de5d5e5ff9005
   m_configObjects: {}
+=======
+  m_Scenes: []
+>>>>>>> 66dd253926511080992e2fee85eebb2ae8c2e134
