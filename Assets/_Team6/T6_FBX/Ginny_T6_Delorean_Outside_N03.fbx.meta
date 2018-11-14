@@ -1,29 +1,34 @@
 fileFormatVersion: 2
-guid: d7f4a219b5c9b834eab3bcfd7af5b116
+guid: 127e41862edb62b409bdba6494d346bb
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: B_LightBall
-    100002: //RootNode
-    100004: Exhaust
-    100006: LF_LightBall
-    400000: B_LightBall
-    400002: //RootNode
-    400004: Exhaust
-    400006: LF_LightBall
-    2100000: aiStandardSurface_Light_Yellow
-    2100002: aiStandardSurface_Light_Red
+    100000: B_LightBall_RLight
+    100002: B_LightBall_YLight
+    100004: //RootNode
+    100006: Exhaust
+    100008: LF_LightBall
+    400000: B_LightBall_RLight
+    400002: B_LightBall_YLight
+    400004: //RootNode
+    400006: Exhaust
+    400008: LF_LightBall
+    2100000: aiStandardSurface_Light_Red
+    2100002: aiStandardSurface_Light_Yellow
     2100004: aiStandardSurface_Light
     2100006: Delorean_Out_aiStandardSurface_Plastic_BK
-    2300000: B_LightBall
-    2300002: Exhaust
-    2300004: LF_LightBall
-    3300000: B_LightBall
-    3300002: Exhaust
-    3300004: LF_LightBall
-    4300000: B_LightBall
-    4300002: LF_LightBall
-    4300004: Exhaust
+    2300000: B_LightBall_RLight
+    2300002: B_LightBall_YLight
+    2300004: Exhaust
+    2300006: LF_LightBall
+    3300000: B_LightBall_RLight
+    3300002: B_LightBall_YLight
+    3300004: Exhaust
+    3300006: LF_LightBall
+    4300000: B_LightBall_RLight
+    4300002: B_LightBall_YLight
+    4300004: LF_LightBall
+    4300006: Exhaust
   externalObjects:
   - first:
       type: UnityEngine:Material
