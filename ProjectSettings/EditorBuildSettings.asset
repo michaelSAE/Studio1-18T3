@@ -4,21 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-<<<<<<< HEAD
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/MASTER SCENE.unity
     guid: fa3f3c888e66eec45a985839be15720c
   - enabled: 1
-    path: Assets/Scenes/Load Scene 01.unity
+    path: Assets/Scenes/Master Scene_02.unity
     guid: 909ebd61aaed88c4fa5fd56e4487f579
-  - enabled: 1
-    path: Assets/_Team3/Scenes/BA_Main_room_010.unity
-    guid: b2851bb751248034481d527b75583332
   - enabled: 1
     path: Assets/_Team7/Scenes/Poltergiest Bedroom.unity
     guid: 90eb132404c594542a2de5d5e5ff9005
   m_configObjects: {}
-=======
-  m_Scenes: []
->>>>>>> 66dd253926511080992e2fee85eebb2ae8c2e134
