@@ -19,6 +19,8 @@ TagManager:
   - ScoresText
   - Exploder
   - Pickup
+  - Gravity
+  - Collectable
   layers:
   - Default
   - TransparentFX
