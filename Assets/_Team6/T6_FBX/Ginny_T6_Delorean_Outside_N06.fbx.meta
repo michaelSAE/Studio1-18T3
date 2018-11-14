@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 02067248e48f29f4a8f076dd53a4905c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: B_Green
+    100002: B_LPer
+    100004: B_Per
+    100006: BPipe
+    100008: //RootNode
+    100010: LPer_Wire
+    400000: B_Green
+    400002: B_LPer
+    400004: B_Per
+    400006: BPipe
+    400008: //RootNode
+    400010: LPer_Wire
+    2100000: Delorean_Out_aiStandardSurface_Plastic_Per
+    2100002: Delorean_Out_aiStandardSurface_Plastic_LPer
+    2100004: Delorean_Out_aiStandardSurface_Plastic_Green
+    2100006: Delorean_Out_aiStandardSurface_Metal_DSV
+    2300000: B_Green
+    2300002: B_LPer
+    2300004: B_Per
+    2300006: BPipe
+    2300008: LPer_Wire
+    3300000: B_Green
+    3300002: B_LPer
+    3300004: B_Per
+    3300006: BPipe
+    3300008: LPer_Wire
+    4300000: B_Per
+    4300002: B_LPer
+    4300004: B_Green
+    4300006: LPer_Wire
+    4300008: BPipe
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Delorean_Out_aiStandardSurface_Metal_DSV
+    second: {fileID: 2100000, guid: aaae07d33bc6b4413988cf364cc7ad20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Delorean_Out_aiStandardSurface_Plastic_Green
+    second: {fileID: 2100000, guid: 158ac0d60a9894bb8a3bc22136a2ea8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Delorean_Out_aiStandardSurface_Plastic_LPer
+    second: {fileID: 2100000, guid: bf95bf5b64fe2458c99866d7c7b0f2db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Delorean_Out_aiStandardSurface_Plastic_Per
+    second: {fileID: 2100000, guid: ae154a9e420134e66860f3ed0a954dc5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
