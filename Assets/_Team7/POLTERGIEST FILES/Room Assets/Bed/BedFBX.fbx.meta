@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 054c68bb22fcf024788d84066089e3e4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArcPOle
+    100002: Bed 1
+    100004: //RootNode
+    100006: Curves
+    100008: group1
+    100010: Horzontal_line
+    100012: Horzontal_line1
+    100014: inenr_pole
+    100016: Metal
+    100018: Middle_Pole
+    100020: Outer_pole
+    100022: OuterPoles
+    100024: pCube3
+    100026: pCube4
+    100028: pCube5
+    100030: pCube6
+    100032: pCylinder1
+    100034: polySurface1
+    100036: polySurface10
+    100038: polySurface2
+    100040: polySurface3
+    100042: polySurface4
+    100044: polySurface6
+    100046: polySurface8
+    100048: polySurface9
+    100050: Verticalpoles
+    400000: ArcPOle
+    400002: Bed 1
+    400004: //RootNode
+    400006: Curves
+    400008: group1
+    400010: Horzontal_line
+    400012: Horzontal_line1
+    400014: inenr_pole
+    400016: Metal
+    400018: Middle_Pole
+    400020: Outer_pole
+    400022: OuterPoles
+    400024: pCube3
+    400026: pCube4
+    400028: pCube5
+    400030: pCube6
+    400032: pCylinder1
+    400034: polySurface1
+    400036: polySurface10
+    400038: polySurface2
+    400040: polySurface3
+    400042: polySurface4
+    400044: polySurface6
+    400046: polySurface8
+    400048: polySurface9
+    400050: Verticalpoles
+    2100000: mattress
+    2100002: Outerpoles
+    2100004: middle_pole
+    2100006: arc
+    2100008: arc1
+    2100010: verticapoles
+    2100012: back_poles
+    2100014: side_poles
+    2100016: front_legs
+    2100018: wood
+    2300000: ArcPOle
+    2300002: Bed 1
+    2300004: Curves
+    2300006: Horzontal_line
+    2300008: Horzontal_line1
+    2300010: inenr_pole
+    2300012: Middle_Pole
+    2300014: Outer_pole
+    2300016: pCube3
+    2300018: pCube4
+    2300020: pCube5
+    2300022: pCube6
+    2300024: polySurface1
+    2300026: polySurface10
+    2300028: polySurface2
+    2300030: polySurface3
+    2300032: polySurface6
+    2300034: polySurface8
+    2300036: polySurface9
+    3300000: ArcPOle
+    3300002: Bed 1
+    3300004: Curves
+    3300006: Horzontal_line
+    3300008: Horzontal_line1
+    3300010: inenr_pole
+    3300012: Middle_Pole
+    3300014: Outer_pole
+    3300016: pCube3
+    3300018: pCube4
+    3300020: pCube5
+    3300022: pCube6
+    3300024: polySurface1
+    3300026: polySurface10
+    3300028: polySurface2
+    3300030: polySurface3
+    3300032: polySurface6
+    3300034: polySurface8
+    3300036: polySurface9
+    4300000: Bed
+    4300002: polySurface10
+    4300004: Middle_Pole
+    4300006: ArcPOle
+    4300008: Curves
+    4300010: inenr_pole
+    4300012: Horzontal_line
+    4300014: Horzontal_line1
+    4300016: Outer_pole
+    4300018: polySurface1
+    4300020: polySurface2
+    4300022: polySurface3
+    4300024: polySurface8
+    4300026: polySurface9
+    4300028: polySurface6
+    4300030: pCube3
+    4300032: pCube4
+    4300034: pCube5
+    4300036: pCube6
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
