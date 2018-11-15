@@ -254,26 +254,26 @@
     <None Include="Assets\Obi\Editor\Resources\PropertyGradientMaterial.shader" />
     <None Include="Assets\PlayMaker\Editor\Install\readme.txt" />
     <None Include="Assets\PlayMaker\Editor\UnityEngine.UI.xml" />
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.ProGrids">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProGrids.Editor">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -515,35 +515,35 @@
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.1f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
+    <Reference Include="PackageManagerAssembly">
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Assets/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll</HintPath>
+    </Reference>
     <Reference Include="P2T">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Assets/Exploder/Scripts/3rd/P2T.dll</HintPath>
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Assets/Exploder/Scripts/3rd/P2T.dll</HintPath>
     </Reference>
     <Reference Include="ConditionalExpression">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Assets/PlayMaker/ConditionalExpression.dll</HintPath>
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Assets/PlayMaker/ConditionalExpression.dll</HintPath>
     </Reference>
     <Reference Include="ConditionalExpressionEditor">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Assets/PlayMaker/Editor/ConditionalExpressionEditor.dll</HintPath>
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Assets/PlayMaker/Editor/ConditionalExpressionEditor.dll</HintPath>
     </Reference>
     <Reference Include="PlayMakerEditor">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Assets/PlayMaker/Editor/PlayMakerEditor.dll</HintPath>
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Assets/PlayMaker/Editor/PlayMakerEditor.dll</HintPath>
     </Reference>
     <Reference Include="PlayMakerEditorResources">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Assets/PlayMaker/Editor/PlayMakerEditorResources.dll</HintPath>
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Assets/PlayMaker/Editor/PlayMakerEditorResources.dll</HintPath>
     </Reference>
     <Reference Include="EasyJSON">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Assets/Plugins/EasyJSON.dll</HintPath>
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Assets/Plugins/EasyJSON.dll</HintPath>
     </Reference>
     <Reference Include="Parse.Unity">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Assets/Plugins/Parse.Unity.dll</HintPath>
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Assets/Plugins/Parse.Unity.dll</HintPath>
     </Reference>
     <Reference Include="PlayMaker">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Assets/Plugins/PlayMaker/PlayMaker.dll</HintPath>
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Assets/Plugins/PlayMaker/PlayMaker.dll</HintPath>
     </Reference>
     <Reference Include="Valve.Newtonsoft.Json">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="PackageManagerAssembly">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Assets/EffectExamples/Editor/PackageManagerAssembly/PackageManagerAssembly.dll</HintPath>
+      <HintPath>C:/Users/Blake/Documents/GitHub/Studio1-18T3/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>

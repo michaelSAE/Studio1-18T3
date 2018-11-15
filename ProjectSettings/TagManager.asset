@@ -5,6 +5,16 @@ TagManager:
   serializedVersion: 2
   tags:
   - Shootable
+  - pacdot
+  - Hand
+  - Rocket
+  - Coin
+  - Ball
+  - Exploder
+  - Gravity
+  - projectile
+  - FxTemporaire
+  - Key
   layers:
   - Default
   - TransparentFX
