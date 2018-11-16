@@ -170,7 +170,8 @@ public class GameManager : MonoBehaviour {
 
     public void LoseLife()
     {
-        lives--;
+        // MB - changed this so PacMan game keeps playing. -- to ++
+        lives++;
         gameState = GameState.Dead;
     
         // update UI too
@@ -184,7 +185,8 @@ public class GameManager : MonoBehaviour {
 
         score = 0;
         Level = 0;
-        lives = 3;
+        // MB was 3
+        lives = 10;
         Destroy(GameObject.Find("Game Manager"));
     }
 }
