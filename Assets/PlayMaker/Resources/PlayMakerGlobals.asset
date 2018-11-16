@@ -45,3 +45,4 @@ MonoBehaviour:
   events:
   - Recieved
   - recieved from roc
+  - Picked Up
