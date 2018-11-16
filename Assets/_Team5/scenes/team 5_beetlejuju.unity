@@ -1996,6 +1996,10 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 3.1488
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 4c46c152868734c10a80787313f1a5e2, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: dd11766383e674383a24fdb22def8a79, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4c46c152868734c10a80787313f1a5e2, type: 3}
   m_IsPrefabAsset: 0
@@ -2140,6 +2144,14 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 15.745127
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 4f38d0bc12d284e09a39a3be41aff29e, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: c4052aae7c5e34c888e3b2db3dcb574a, type: 2}
+    - target: {fileID: 2300000, guid: 4f38d0bc12d284e09a39a3be41aff29e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 02470cecaf2f14449b57cd3ae8ea87d8, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4f38d0bc12d284e09a39a3be41aff29e, type: 3}
   m_IsPrefabAsset: 0
@@ -3728,6 +3740,10 @@ Prefab:
       propertyPath: m_Name
       value: ass_salt_v00_UV (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 5a5ee785dfcb14fbc8897395ed74df9f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9d32fcf6baf244f4a239ac255cd08ab, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5ee785dfcb14fbc8897395ed74df9f, type: 3}
   m_IsPrefabAsset: 0
@@ -9538,6 +9554,10 @@ Prefab:
       propertyPath: m_Name
       value: salt shakers
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 5a5ee785dfcb14fbc8897395ed74df9f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: a9d32fcf6baf244f4a239ac255cd08ab, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5a5ee785dfcb14fbc8897395ed74df9f, type: 3}
   m_IsPrefabAsset: 0
@@ -10522,7 +10542,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100024, guid: aedf8ef259c8642eeb72d6d5066b6a07, type: 3}
+  - {fileID: 2100000, guid: 796c134e5c6b1419784cfea91bf03128, type: 2}
   - {fileID: 2100026, guid: aedf8ef259c8642eeb72d6d5066b6a07, type: 3}
   - {fileID: 2100000, guid: aedf8ef259c8642eeb72d6d5066b6a07, type: 3}
   m_StaticBatchInfo:
@@ -10852,7 +10872,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: aedf8ef259c8642eeb72d6d5066b6a07, type: 3}
+  - {fileID: 2100000, guid: 8598ae413c81645ab99c98afdd3fdf12, type: 2}
   - {fileID: 2100042, guid: aedf8ef259c8642eeb72d6d5066b6a07, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -14719,7 +14739,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RenderingLayerMask: 4294967295
   m_Materials:
-  - {fileID: 2100000, guid: aedf8ef259c8642eeb72d6d5066b6a07, type: 3}
+  - {fileID: 2100000, guid: 793e497e6f3fe43938c2fc2103cfed79, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -16067,6 +16087,18 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 4.0353847
       objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: 5b7f9aab867b4420f8ace8ab1a2cc5a2, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 96363039176e04d60b0c3c3aecbb1ec7, type: 2}
+    - target: {fileID: 2300000, guid: 5b7f9aab867b4420f8ace8ab1a2cc5a2, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 364e994aa96b448aeb9bf265cc33a9fa, type: 2}
+    - target: {fileID: 2300000, guid: 5b7f9aab867b4420f8ace8ab1a2cc5a2, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 69b9be29bb6954b97b05154456cd1cd2, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b7f9aab867b4420f8ace8ab1a2cc5a2, type: 3}
   m_IsPrefabAsset: 0
