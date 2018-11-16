@@ -1,20 +1,35 @@
 fileFormatVersion: 2
-guid: 06f3792ad8cae406793dd40d66b45653
+guid: 7fdb0b041c6af4fdba44a6d854de6037
 folderAsset: yes
-timeCreated: 1482772424
-licenseType: Store
 PluginImporter:
-  serializedVersion: 1
+  externalObjects: {}
+  serializedVersion: 2
   iconMap: {}
   executionOrder: {}
   isPreloaded: 0
   isOverridable: 0
   platformData:
-    Android:
+  - first:
+      '': OSXIntel
+    second:
+      enabled: 1
+      settings:
+        CPU: AnyCPU
+  - first:
+      '': OSXIntel64
+    second:
+      enabled: 1
+      settings:
+        CPU: AnyCPU
+  - first:
+      Android: Android
+    second:
       enabled: 0
       settings:
         CPU: ARMv7
-    Any:
+  - first:
+      Any: 
+    second:
       enabled: 0
       settings:
         Exclude Android: 1
@@ -29,43 +44,69 @@ PluginImporter:
         Exclude Win: 1
         Exclude Win64: 1
         Exclude iOS: 1
-    Editor:
+  - first:
+      Editor: Editor
+    second:
       enabled: 1
       settings:
         CPU: AnyCPU
         DefaultValueInitialized: true
         OS: OSX
-    Linux:
+  - first:
+      Facebook: WebGL
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      Facebook: Win
+    second:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  - first:
+      Facebook: Win64
+    second:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  - first:
+      Standalone: Linux
+    second:
       enabled: 0
       settings:
         CPU: x86
-    Linux64:
+  - first:
+      Standalone: Linux64
+    second:
       enabled: 0
       settings:
         CPU: x86_64
-    OSXIntel:
+  - first:
+      Standalone: OSXUniversal
+    second:
       enabled: 1
       settings:
-        CPU: AnyCPU
-    OSXIntel64:
-      enabled: 1
-      settings:
-        CPU: AnyCPU
-    OSXUniversal:
-      enabled: 1
-      settings: {}
-    WebGL:
-      enabled: 1
-      settings: {}
-    Win:
+        CPU: 
+  - first:
+      Standalone: Win
+    second:
       enabled: 0
       settings:
         CPU: AnyCPU
-    Win64:
+  - first:
+      Standalone: Win64
+    second:
       enabled: 0
       settings:
         CPU: AnyCPU
-    iOS:
+  - first:
+      WebGL: WebGL
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      iPhone: iOS
+    second:
       enabled: 0
       settings:
         CompileFlags: 

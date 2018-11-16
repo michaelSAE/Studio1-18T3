@@ -1,10 +1,9 @@
 fileFormatVersion: 2
-guid: ba16ae67f4e504f74971c35ff2651270
+guid: 79cf7e214467940c9a710add53477343
 labels:
 - ObiCloth
-timeCreated: 1516091555
-licenseType: Store
 MonoImporter:
+  externalObjects: {}
   serializedVersion: 2
   defaultReferences: []
   executionOrder: 600

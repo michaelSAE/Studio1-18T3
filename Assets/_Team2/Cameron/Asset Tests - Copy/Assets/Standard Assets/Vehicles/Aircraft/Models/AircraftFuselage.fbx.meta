@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 4fea6053a1424d44daf193f09be2d491
+guid: d0cae94e1a9144e279664020bcb9ff26
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -87,7 +87,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: AircraftFuselageWhite
-    second: {fileID: 2100000, guid: 6f36a222811073946936cf1cdeb78f9c, type: 2}
+    second: {fileID: 2100000, guid: af27b68615ad34925b9e19a4375d43a3, type: 2}
   materials:
     importMaterials: 1
     materialName: 1

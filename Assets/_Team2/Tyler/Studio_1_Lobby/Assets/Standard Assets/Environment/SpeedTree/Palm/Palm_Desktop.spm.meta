@@ -1,6 +1,7 @@
 fileFormatVersion: 2
-guid: d027af1092f6b434090f040565e7e656
+guid: 400ff104260d74135a99f3b7fdce999e
 SpeedTreeImporter:
+  externalObjects: {}
   serializedVersion: 4
   mainColor: {r: 1, g: 1, b: 1, a: 1}
   hueVariation: {r: 1, g: 0.5, b: 0, a: 0.1}

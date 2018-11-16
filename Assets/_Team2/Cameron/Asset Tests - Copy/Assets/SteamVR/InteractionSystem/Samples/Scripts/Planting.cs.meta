@@ -1,8 +1,7 @@
 fileFormatVersion: 2
-guid: 4390f3b73c731c846a0cc863c72d7a1e
-timeCreated: 1529518097
-licenseType: Store
+guid: a93957a54d9034baea5442376de506f6
 MonoImporter:
+  externalObjects: {}
   serializedVersion: 2
   defaultReferences:
   - plantAction: {instanceID: 0}

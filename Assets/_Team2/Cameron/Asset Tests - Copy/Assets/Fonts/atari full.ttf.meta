@@ -1,14 +1,23 @@
 fileFormatVersion: 2
-guid: 093e796d1ac1559428a16cbfebe26dac
+guid: 3add03d51cefa43679e738f3e8cb7a77
 TrueTypeFontImporter:
-  serializedVersion: 2
+  externalObjects: {}
+  serializedVersion: 4
   fontSize: 16
   forceTextureCase: -2
-  characterSpacing: 1
-  characterPadding: 0
+  characterSpacing: 0
+  characterPadding: 1
   includeFontData: 1
-  use2xBehaviour: 0
-  fontNames: []
+  fontName: Atari Font Full Version
+  fontNames:
+  - Atari Font Full Version
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 093e796d1ac1559428a16cbfebe26dac, type: 3}
   customCharacters: 
   fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

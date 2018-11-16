@@ -1,6 +1,7 @@
 fileFormatVersion: 2
-guid: 8a69aa6a4121ee1429846b7e049dc8fd
+guid: 87fe8815016ec442ea634808bf55764a
 MonoImporter:
+  externalObjects: {}
   serializedVersion: 2
   defaultReferences:
   - pacman: {instanceID: 0}
@@ -12,3 +13,5 @@ MonoImporter:
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

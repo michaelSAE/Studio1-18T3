@@ -1,51 +1,83 @@
 fileFormatVersion: 2
-guid: a91ed7ff7ee034fc891e4b665a3dfbff
-timeCreated: 1469720437
-licenseType: Store
+guid: fffc05491a3a84b309a0b4294d7181d2
 PluginImporter:
-  serializedVersion: 1
+  externalObjects: {}
+  serializedVersion: 2
   iconMap: {}
   executionOrder: {}
   isPreloaded: 0
+  isOverridable: 0
   platformData:
-    Android:
+  - first:
+      '': OSXIntel
+    second:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  - first:
+      '': OSXIntel64
+    second:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  - first:
+      Android: Android
+    second:
       enabled: 1
       settings:
         CPU: x86
-    Any:
+  - first:
+      Any: 
+    second:
       enabled: 0
       settings: {}
-    Editor:
+  - first:
+      Editor: Editor
+    second:
       enabled: 0
       settings:
         CPU: AnyCPU
         DefaultValueInitialized: true
         OS: AnyOS
-    Linux:
+  - first:
+      Facebook: Win
+    second:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  - first:
+      Facebook: Win64
+    second:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  - first:
+      Standalone: Linux
+    second:
       enabled: 0
       settings:
         CPU: x86
-    Linux64:
+  - first:
+      Standalone: Linux64
+    second:
       enabled: 0
       settings:
         CPU: x86_64
-    OSXIntel:
+  - first:
+      Standalone: Win
+    second:
       enabled: 0
       settings:
         CPU: AnyCPU
-    OSXIntel64:
+  - first:
+      Standalone: Win64
+    second:
       enabled: 0
       settings:
         CPU: AnyCPU
-    Win:
-      enabled: 0
-      settings:
-        CPU: AnyCPU
-    Win64:
-      enabled: 0
-      settings:
-        CPU: AnyCPU
-    iOS:
+  - first:
+      iPhone: iOS
+    second:
       enabled: 0
       settings:
         CompileFlags: 
