@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: cbfda64e8f46af447be6fe81a1ca4bd8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PGT_Ass_ALC_V04:Body
+    100004: PGT_Ass_ALC_V04:Body 1
+    100006: PGT_Ass_ALC_V04:Button
+    100008: PGT_Ass_ALC_V04:Button5
+    100010: PGT_Ass_ALC_V04:Button6
+    100012: PGT_Ass_ALC_V04:Button7
+    100014: PGT_Ass_ALC_V04:Button8
+    100016: PGT_Ass_ALC_V04:Button9
+    100018: PGT_Ass_ALC_V04:Button_6
+    100020: PGT_Ass_ALC_V04:buttons
+    100022: PGT_Ass_ALC_V04:FAce
+    100024: PGT_Ass_ALC_V04:Metalbrim
+    100026: PGT_Ass_ALC_V04:polySurface1
+    100028: PGT_Ass_ALC_V04:polySurface2
+    100030: PGT_Ass_ALC_V04:polySurface4
+    100032: PGT_Ass_ALC_V04:polySurface5
+    100034: PGT_Ass_ALC_V04:polySurface6
+    400000: //RootNode
+    400002: PGT_Ass_ALC_V04:Body
+    400004: PGT_Ass_ALC_V04:Body 1
+    400006: PGT_Ass_ALC_V04:Button
+    400008: PGT_Ass_ALC_V04:Button5
+    400010: PGT_Ass_ALC_V04:Button6
+    400012: PGT_Ass_ALC_V04:Button7
+    400014: PGT_Ass_ALC_V04:Button8
+    400016: PGT_Ass_ALC_V04:Button9
+    400018: PGT_Ass_ALC_V04:Button_6
+    400020: PGT_Ass_ALC_V04:buttons
+    400022: PGT_Ass_ALC_V04:FAce
+    400024: PGT_Ass_ALC_V04:Metalbrim
+    400026: PGT_Ass_ALC_V04:polySurface1
+    400028: PGT_Ass_ALC_V04:polySurface2
+    400030: PGT_Ass_ALC_V04:polySurface4
+    400032: PGT_Ass_ALC_V04:polySurface5
+    400034: PGT_Ass_ALC_V04:polySurface6
+    2100000: inner_frame
+    2100002: outer_frame
+    2100004: wood
+    2100006: button_platform
+    2100008: face
+    2100010: circle_buttons
+    2100012: small_silver_button
+    2100014: box_button
+    2100016: small_black_button
+    2300000: PGT_Ass_ALC_V04:Button
+    2300002: PGT_Ass_ALC_V04:Button5
+    2300004: PGT_Ass_ALC_V04:Button6
+    2300006: PGT_Ass_ALC_V04:Button7
+    2300008: PGT_Ass_ALC_V04:Button8
+    2300010: PGT_Ass_ALC_V04:Button9
+    2300012: PGT_Ass_ALC_V04:Button_6
+    2300014: PGT_Ass_ALC_V04:FAce
+    2300016: PGT_Ass_ALC_V04:Metalbrim
+    2300018: PGT_Ass_ALC_V04:polySurface4
+    2300020: PGT_Ass_ALC_V04:polySurface5
+    2300022: PGT_Ass_ALC_V04:polySurface6
+    3300000: PGT_Ass_ALC_V04:Button
+    3300002: PGT_Ass_ALC_V04:Button5
+    3300004: PGT_Ass_ALC_V04:Button6
+    3300006: PGT_Ass_ALC_V04:Button7
+    3300008: PGT_Ass_ALC_V04:Button8
+    3300010: PGT_Ass_ALC_V04:Button9
+    3300012: PGT_Ass_ALC_V04:Button_6
+    3300014: PGT_Ass_ALC_V04:FAce
+    3300016: PGT_Ass_ALC_V04:Metalbrim
+    3300018: PGT_Ass_ALC_V04:polySurface4
+    3300020: PGT_Ass_ALC_V04:polySurface5
+    3300022: PGT_Ass_ALC_V04:polySurface6
+    4300000: PGT_Ass_ALC_V04:Metalbrim
+    4300002: PGT_Ass_ALC_V04:polySurface4
+    4300004: PGT_Ass_ALC_V04:polySurface5
+    4300006: PGT_Ass_ALC_V04:polySurface6
+    4300008: PGT_Ass_ALC_V04:FAce
+    4300010: PGT_Ass_ALC_V04:Button7
+    4300012: PGT_Ass_ALC_V04:Button6
+    4300014: PGT_Ass_ALC_V04:Button5
+    4300016: PGT_Ass_ALC_V04:Button_6
+    4300018: PGT_Ass_ALC_V04:Button
+    4300020: PGT_Ass_ALC_V04:Button8
+    4300022: PGT_Ass_ALC_V04:Button9
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

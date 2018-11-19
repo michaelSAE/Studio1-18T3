@@ -5,6 +5,17 @@ TagManager:
   serializedVersion: 2
   tags:
   - Shootable
+  - pacdot
+  - Hand
+  - Rocket
+  - Coin
+  - Ball
+  - Exploder
+  - Gravity
+  - projectile
+  - FxTemporaire
+  - Key
+  - Teddy
   layers:
   - Default
   - TransparentFX
@@ -17,14 +28,14 @@ TagManager:
   - Lighting
   - Ground
   - Postprocessing
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Room Objects
+  - Static Objects
+  - Lighting
+  - Particles
+  - Pacman
+  - Pacman Screen
+  - Teddy
+  - Texts
   - 
   - 
   - 
