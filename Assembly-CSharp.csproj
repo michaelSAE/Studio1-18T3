@@ -1114,7 +1114,7 @@
     <Compile Include="Assets\Scripts\AbstractGameObjectState.cs" />
     <Compile Include="Assets\Scripts\AI.cs" />
     <Compile Include="Assets\Scripts\BlockScript.cs" />
-    <Compile Include="Assets\Scripts\cueHandler.cs" />
+    <Compile Include="Assets\Scripts\CueHandler.cs" />
     <Compile Include="Assets\Scripts\DistanceJoint3D.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\enemylaserlightScript.cs" />
@@ -1294,6 +1294,7 @@
     <Compile Include="Assets\SteamVR\InteractionSystem\Samples\Scripts\FloppyHand.cs" />
     <Compile Include="Assets\SteamVR\InteractionSystem\Samples\Scripts\FlowerPlanted.cs" />
     <Compile Include="Assets\SteamVR\InteractionSystem\Samples\Scripts\InteractableExample.cs" />
+    <Compile Include="Assets\SteamVR\InteractionSystem\Samples\Scripts\InteractableMB.cs" />
     <Compile Include="Assets\SteamVR\InteractionSystem\Samples\Scripts\Planting.cs" />
     <Compile Include="Assets\SteamVR\InteractionSystem\Samples\Scripts\RenderModelHolder.cs" />
     <Compile Include="Assets\SteamVR\InteractionSystem\Samples\Scripts\SkeletonUIOptions.cs" />
@@ -1434,26 +1435,26 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Readme_InteractionSystem.txt" />
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.ProGrids">
       <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProGrids.Editor">
       <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
       <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
       <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.1f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
