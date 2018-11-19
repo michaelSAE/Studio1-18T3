@@ -13,7 +13,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   welcomeScreenVersion: '1.9.0 '
   playmakerVersion: 
+<<<<<<< HEAD
   showWelcomeScreen: 1
   showUpgradeGuide: 0
   lastAutoUpdateSignature: '2018.2.1f1__C:/Users/gespino2/Documents/GitHub/Studio1-18T3/Assets__ '
+=======
+<<<<<<< HEAD
+  showWelcomeScreen: 1
+  showUpgradeGuide: 0
+  lastAutoUpdateSignature: '2018.2.1f1__C:/Users/ebraysmith/Desktop/Studio1/Studio1-18T3/Assets__ '
+=======
+<<<<<<< HEAD
+  showWelcomeScreen: 1
+  showUpgradeGuide: 0
+  lastAutoUpdateSignature: 
+=======
+  showWelcomeScreen: 0
+  showUpgradeGuide: 0
+  lastAutoUpdateSignature: '2018.2.1f1__C:/Users/tmcshane/Documents/GitHub/Studio1-18T3/Assets__ '
+>>>>>>> 677661ea1de1f7da1e496eb3045971c1b6afbaa0
+>>>>>>> 3429c80ab92fa53553a19d93ea79818b85150a78
+>>>>>>> 6bf217a025b492a7c39a209a5f50fee91da15340
   useLegacyNetworking: 0

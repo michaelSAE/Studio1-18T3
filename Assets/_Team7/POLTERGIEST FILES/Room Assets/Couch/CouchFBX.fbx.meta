@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: a019d72f0bca2ac4ea29cb2947625da1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PGT_Ass_COU_V04:base
+    100004: PGT_Ass_COU_V04:big_Cushions
+    100006: PGT_Ass_COU_V04:Cushions1
+    100008: PGT_Ass_COU_V04:Cushions2
+    100010: PGT_Ass_COU_V04:head_cushions
+    100012: PGT_Ass_COU_V04:pCube3
+    100014: PGT_Ass_COU_V04:pCube4
+    100016: PGT_Ass_COU_V04:pCube5
+    400000: //RootNode
+    400002: PGT_Ass_COU_V04:base
+    400004: PGT_Ass_COU_V04:big_Cushions
+    400006: PGT_Ass_COU_V04:Cushions1
+    400008: PGT_Ass_COU_V04:Cushions2
+    400010: PGT_Ass_COU_V04:head_cushions
+    400012: PGT_Ass_COU_V04:pCube3
+    400014: PGT_Ass_COU_V04:pCube4
+    400016: PGT_Ass_COU_V04:pCube5
+    2100000: Couch
+    2100002: left_cushion
+    2100004: back_cushions
+    2100006: big_cushions
+    2300000: PGT_Ass_COU_V04:base
+    2300002: PGT_Ass_COU_V04:Cushions1
+    2300004: PGT_Ass_COU_V04:Cushions2
+    2300006: PGT_Ass_COU_V04:pCube3
+    2300008: PGT_Ass_COU_V04:pCube4
+    2300010: PGT_Ass_COU_V04:pCube5
+    3300000: PGT_Ass_COU_V04:base
+    3300002: PGT_Ass_COU_V04:Cushions1
+    3300004: PGT_Ass_COU_V04:Cushions2
+    3300006: PGT_Ass_COU_V04:pCube3
+    3300008: PGT_Ass_COU_V04:pCube4
+    3300010: PGT_Ass_COU_V04:pCube5
+    4300000: PGT_Ass_COU_V04:base
+    4300002: PGT_Ass_COU_V04:pCube3
+    4300004: PGT_Ass_COU_V04:pCube4
+    4300006: PGT_Ass_COU_V04:pCube5
+    4300008: PGT_Ass_COU_V04:Cushions2
+    4300010: PGT_Ass_COU_V04:Cushions1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 603b948a058ae324da96a4f7e37ef0b0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: clown2
+    100002: //RootNode
+    100004: Eye
+    100006: Eye1
+    100008: eyes1
+    100010: group1
+    100012: group2
+    100014: Hair
+    100016: Hair 1
+    100018: hair1
+    100020: hair2
+    100022: hand_brace1
+    100024: hand_brace2
+    100026: hand_braces
+    100028: Hat1
+    100030: Hat_bell
+    100032: Hat_pieces
+    100034: leg_braces
+    100036: leg_braces1
+    100038: Leg_pieces
+    100040: Neckpiece
+    100042: Neckpiece1
+    100044: neckpieces
+    100046: polySurface1
+    100048: polySurface2
+    100050: polySurface3
+    100052: pPlane1
+    100054: pPlane1 1
+    100056: pPlane2
+    100058: pSphere1
+    100060: pSphere1 1
+    100062: pSphere2
+    100064: pSphere3
+    100066: pSphere4
+    100068: Shoes
+    100070: Teeth
+    400000: clown2
+    400002: //RootNode
+    400004: Eye
+    400006: Eye1
+    400008: eyes1
+    400010: group1
+    400012: group2
+    400014: Hair
+    400016: Hair 1
+    400018: hair1
+    400020: hair2
+    400022: hand_brace1
+    400024: hand_brace2
+    400026: hand_braces
+    400028: Hat1
+    400030: Hat_bell
+    400032: Hat_pieces
+    400034: leg_braces
+    400036: leg_braces1
+    400038: Leg_pieces
+    400040: Neckpiece
+    400042: Neckpiece1
+    400044: neckpieces
+    400046: polySurface1
+    400048: polySurface2
+    400050: polySurface3
+    400052: pPlane1
+    400054: pPlane1 1
+    400056: pPlane2
+    400058: pSphere1
+    400060: pSphere1 1
+    400062: pSphere2
+    400064: pSphere3
+    400066: pSphere4
+    400068: Shoes
+    400070: Teeth
+    2100000: shoes
+    2100002: Body
+    2100004: lambert1
+    2100006: hatbell
+    2100008: shoe_fabric
+    2100010: eyes
+    2100012: hair
+    2100014: Hat
+    2100016: leg_fabric
+    2100018: wrist_fabric
+    2100020: neck_fabric
+    2100022: nose
+    2300000: Eye
+    2300002: Eye1
+    2300004: Hair 1
+    2300006: hair1
+    2300008: hair2
+    2300010: hand_brace1
+    2300012: hand_brace2
+    2300014: Hat1
+    2300016: Hat_bell
+    2300018: leg_braces
+    2300020: leg_braces1
+    2300022: Neckpiece
+    2300024: Neckpiece1
+    2300026: polySurface1
+    2300028: polySurface2
+    2300030: polySurface3
+    2300032: pPlane1
+    2300034: pPlane1 1
+    2300036: pPlane2
+    2300038: pSphere1
+    2300040: pSphere1 1
+    2300042: pSphere2
+    2300044: pSphere3
+    2300046: pSphere4
+    2300048: Teeth
+    3300000: Eye
+    3300002: Eye1
+    3300004: Hair 1
+    3300006: hair1
+    3300008: hair2
+    3300010: hand_brace1
+    3300012: hand_brace2
+    3300014: Hat1
+    3300016: Hat_bell
+    3300018: leg_braces
+    3300020: leg_braces1
+    3300022: Neckpiece
+    3300024: Neckpiece1
+    3300026: polySurface1
+    3300028: polySurface2
+    3300030: polySurface3
+    3300032: pPlane1
+    3300034: pPlane1 1
+    3300036: pPlane2
+    3300038: pSphere1
+    3300040: pSphere1 1
+    3300042: pSphere2
+    3300044: pSphere3
+    3300046: pSphere4
+    3300048: Teeth
+    4300000: polySurface2
+    4300002: polySurface3
+    4300004: polySurface1
+    4300006: Teeth
+    4300008: pSphere1
+    4300010: pPlane1
+    4300012: pSphere3
+    4300014: pSphere1
+    4300016: pPlane1
+    4300018: pSphere4
+    4300020: Eye
+    4300022: Eye1
+    4300024: hair1
+    4300026: hair2
+    4300028: Hair
+    4300030: pPlane2
+    4300032: Hat_bell
+    4300034: Hat1
+    4300036: leg_braces
+    4300038: leg_braces1
+    4300040: hand_brace1
+    4300042: hand_brace2
+    4300044: Neckpiece
+    4300046: Neckpiece1
+    4300048: pSphere2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
