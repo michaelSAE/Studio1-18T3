@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 61f8d5096e18c4a988d29b601a65073b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - plantAction: {instanceID: 0}
+  - hand: {instanceID: 0}
+  - prefabToPlant: {fileID: 1000011210241306, guid: 8a2487c189a464148aadc3af2effa7c8,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
