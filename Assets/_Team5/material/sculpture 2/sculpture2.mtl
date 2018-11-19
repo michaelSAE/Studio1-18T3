@@ -1,0 +1,11 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.77322876)
+
+newmtl bodies
+kd 0.021684 0.0660771 0.834
+illum 1
+
+newmtl legs
+kd 1 0.2574 0
+illum 1
+

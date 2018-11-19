@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   welcomeScreenVersion: '1.9.0 '
   playmakerVersion: 
-  showWelcomeScreen: 1
+  showWelcomeScreen: 0
   showUpgradeGuide: 0
-  lastAutoUpdateSignature: '2018.2.1f1__D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Assets__ '
+  lastAutoUpdateSignature: '2018.2.1f1__C:/Users/tmcshane/Documents/GitHub/Studio1-18T3/Assets__ '
   useLegacyNetworking: 0
