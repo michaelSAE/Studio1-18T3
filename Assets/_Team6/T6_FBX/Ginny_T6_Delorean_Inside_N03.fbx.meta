@@ -29,7 +29,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Delorean_In_aiStandardSurface_Key1
-    second: {fileID: 2100000, guid: c6f3d69b2e741473a87142958d14e832, type: 2}
+    second: {fileID: 2100000, guid: f452039b0314a471abdb6f4a8964e5d6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

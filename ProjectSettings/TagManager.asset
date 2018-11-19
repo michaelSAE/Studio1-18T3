@@ -4,23 +4,18 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Game_shot
-  - Game_enemy
-  - Game_barricade
-  - Game_player
-  - Game_pauseTxt
-  - Game_overTxt
-  - Game_highscoreTxt
-  - Game_attackTargets
+  - Shootable
   - pacdot
+  - Hand
+  - Rocket
+  - Coin
+  - Ball
+  - Exploder
+  - Gravity
   - projectile
   - FxTemporaire
-  - Ball
-  - ScoresText
-  - Exploder
-  - Pickup
-  - Gravity
-  - Collectable
+  - Key
+  - Teddy
   layers:
   - Default
   - TransparentFX
@@ -30,17 +25,17 @@ TagManager:
   - UI
   - 
   - 
-  - SpaceInvaders
-  - PacMan
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Lighting
+  - Ground
+  - Postprocessing
+  - Room Objects
+  - Static Objects
+  - Lighting
+  - Particles
+  - Pacman
+  - Pacman Screen
+  - Teddy
+  - Texts
   - 
   - 
   - 
@@ -55,6 +50,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Fire
+    uniqueID: 3804908061
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
