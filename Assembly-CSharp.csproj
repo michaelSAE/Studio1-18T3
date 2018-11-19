@@ -1436,6 +1436,7 @@
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
     <None Include="Assets\SteamVR\InteractionSystem\Readme_InteractionSystem.txt" />
     <Reference Include="Unity.ProGrids">
+<<<<<<< HEAD
       <HintPath>C:/Users/tmcshane/Documents/GitHub/Studio1-18T3/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ProGrids.Editor">
@@ -1455,6 +1456,27 @@
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/tmcshane/Documents/GitHub/Studio1-18T3/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+=======
+      <HintPath>C:/Users/pwu22/Desktop/Studio1/Studio1-18T3/Library/ScriptAssemblies/Unity.ProGrids.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.ProGrids.Editor">
+      <HintPath>C:/Users/pwu22/Desktop/Studio1/Studio1-18T3/Library/ScriptAssemblies/Unity.ProGrids.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>C:/Users/pwu22/Desktop/Studio1/Studio1-18T3/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>C:/Users/pwu22/Desktop/Studio1/Studio1-18T3/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Postprocessing.Editor">
+      <HintPath>C:/Users/pwu22/Desktop/Studio1/Studio1-18T3/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Postprocessing.Runtime">
+      <HintPath>C:/Users/pwu22/Desktop/Studio1/Studio1-18T3/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>C:/Users/pwu22/Desktop/Studio1/Studio1-18T3/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+>>>>>>> 201d6dc86e1bdb1763f0c831550c052a52ca737e
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -1655,6 +1677,7 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="P2T">
+<<<<<<< HEAD
       <HintPath>C:/Users/tmcshane/Documents/GitHub/Studio1-18T3/Assets/Exploder/Scripts/3rd/P2T.dll</HintPath>
     </Reference>
     <Reference Include="ConditionalExpression">
@@ -1671,6 +1694,24 @@
     </Reference>
     <Reference Include="Valve.Newtonsoft.Json">
       <HintPath>C:/Users/tmcshane/Documents/GitHub/Studio1-18T3/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
+=======
+      <HintPath>C:/Users/pwu22/Desktop/Studio1/Studio1-18T3/Assets/Exploder/Scripts/3rd/P2T.dll</HintPath>
+    </Reference>
+    <Reference Include="ConditionalExpression">
+      <HintPath>C:/Users/pwu22/Desktop/Studio1/Studio1-18T3/Assets/PlayMaker/ConditionalExpression.dll</HintPath>
+    </Reference>
+    <Reference Include="EasyJSON">
+      <HintPath>C:/Users/pwu22/Desktop/Studio1/Studio1-18T3/Assets/Plugins/EasyJSON.dll</HintPath>
+    </Reference>
+    <Reference Include="Parse.Unity">
+      <HintPath>C:/Users/pwu22/Desktop/Studio1/Studio1-18T3/Assets/Plugins/Parse.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="PlayMaker">
+      <HintPath>C:/Users/pwu22/Desktop/Studio1/Studio1-18T3/Assets/Plugins/PlayMaker/PlayMaker.dll</HintPath>
+    </Reference>
+    <Reference Include="Valve.Newtonsoft.Json">
+      <HintPath>C:/Users/pwu22/Desktop/Studio1/Studio1-18T3/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
+>>>>>>> 201d6dc86e1bdb1763f0c831550c052a52ca737e
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
