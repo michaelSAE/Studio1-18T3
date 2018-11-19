@@ -1,13 +1,9 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
-<<<<<<< HEAD
-guid: e946d5041791c4a7190e78496c6a220e
+guid: 8cb46d4051155bf49b431ce8bbe10f87
 =======
-guid: a81d1e294854d0a45951187b359941d3
->>>>>>> 24fd9a47806e29a51e9b9d10ba6cda239ad99a95
-=======
-guid: a81d1e294854d0a45951187b359941d3
->>>>>>> 24fd9a47806e29a51e9b9d10ba6cda239ad99a95
+guid: 8fd797a15b3d3ed439a29bbcb4f8701f
+>>>>>>> 201d6dc86e1bdb1763f0c831550c052a52ca737e
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
