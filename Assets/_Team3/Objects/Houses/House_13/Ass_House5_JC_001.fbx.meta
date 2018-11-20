@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 45e01c9a7cf18844d96e565358e9b34f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BarnDoor
+    100004: barndoor
+    100006: barndoor1
+    100008: barndoor10
+    100010: barndoor11
+    100012: barndoor2
+    100014: barndoor3
+    100016: barndoor4
+    100018: barndoor5
+    100020: barndoor6
+    100022: barndoor7
+    100024: barndoor8
+    100026: barndoor9
+    100028: mainBody
+    100030: roof
+    100032: transform1
+    100034: transform2
+    100036: transform3
+    100038: transform4
+    100040: transform5
+    100042: transform6
+    100044: transform7
+    100046: window
+    100048: windowbeam
+    100050: windowbeam1
+    100052: windowbeam2
+    100054: windowbeam3
+    100056: windowbeam4
+    100058: windowbeam5
+    400000: //RootNode
+    400002: BarnDoor
+    400004: barndoor
+    400006: barndoor1
+    400008: barndoor10
+    400010: barndoor11
+    400012: barndoor2
+    400014: barndoor3
+    400016: barndoor4
+    400018: barndoor5
+    400020: barndoor6
+    400022: barndoor7
+    400024: barndoor8
+    400026: barndoor9
+    400028: mainBody
+    400030: roof
+    400032: transform1
+    400034: transform2
+    400036: transform3
+    400038: transform4
+    400040: transform5
+    400042: transform6
+    400044: transform7
+    400046: window
+    400048: windowbeam
+    400050: windowbeam1
+    400052: windowbeam2
+    400054: windowbeam3
+    400056: windowbeam4
+    400058: windowbeam5
+    2100000: aiStandardSurface1
+    2100002: aiStandardSurface2
+    2100004: aiStandardSurface3
+    2100006: aiStandardSurface4
+    2300000: barndoor10
+    2300002: barndoor11
+    2300004: barndoor2
+    2300006: barndoor3
+    2300008: barndoor6
+    2300010: barndoor7
+    2300012: barndoor8
+    2300014: barndoor9
+    2300016: mainBody
+    2300018: roof
+    2300020: windowbeam2
+    2300022: windowbeam3
+    2300024: windowbeam4
+    2300026: windowbeam5
+    3300000: barndoor10
+    3300002: barndoor11
+    3300004: barndoor2
+    3300006: barndoor3
+    3300008: barndoor6
+    3300010: barndoor7
+    3300012: barndoor8
+    3300014: barndoor9
+    3300016: mainBody
+    3300018: roof
+    3300020: windowbeam2
+    3300022: windowbeam3
+    3300024: windowbeam4
+    3300026: windowbeam5
+    4300000: mainBody
+    4300002: barndoor2
+    4300004: barndoor3
+    4300006: barndoor7
+    4300008: barndoor8
+    4300010: barndoor11
+    4300012: barndoor6
+    4300014: barndoor9
+    4300016: barndoor10
+    4300018: windowbeam2
+    4300020: windowbeam3
+    4300022: windowbeam4
+    4300024: windowbeam5
+    4300026: roof
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
