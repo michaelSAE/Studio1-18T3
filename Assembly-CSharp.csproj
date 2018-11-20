@@ -61,12 +61,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-<<<<<<< HEAD
-    <Compile Include="Assets\_Team6\Scripts\InteractableT6.cs" />
-=======
     <Compile Include="Assets\_Team2\Billie\DragRigidbody.cs" />
     <Compile Include="Assets\_Team2\SceneLoaders\SceneLoader.cs" />
->>>>>>> d0b2625fdee7146139d5b88621676e13bab43daa
+    <Compile Include="Assets\_Team6\Scripts\InteractableT6.cs" />
     <Compile Include="Assets\EffectExamples\Misc Effects\Scripts\SpawnEffect.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Ramps\Runtime\RampAsset.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\AdjustTimeScale.cs" />
@@ -1120,7 +1117,7 @@
     <Compile Include="Assets\Scripts\AbstractGameObjectState.cs" />
     <Compile Include="Assets\Scripts\AI.cs" />
     <Compile Include="Assets\Scripts\BlockScript.cs" />
-    <Compile Include="Assets\Scripts\CueHandler.cs" />
+    <Compile Include="Assets\Scripts\cueHandler.cs" />
     <Compile Include="Assets\Scripts\DistanceJoint3D.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
     <Compile Include="Assets\Scripts\enemylaserlightScript.cs" />
@@ -1453,12 +1450,6 @@
     <Reference Include="Unity.PackageManagerUI.Editor">
       <HintPath>C:/Users/tmcshane/Documents/GitHub/Studio1-18T3/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
       <HintPath>C:/Users/tmcshane/Documents/GitHub/Studio1-18T3/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
@@ -1467,9 +1458,6 @@
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/tmcshane/Documents/GitHub/Studio1-18T3/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/GitHub Holding Area/Studio1_18T3/Studio1-18T3/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
