@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: d0e6daa204c6d0b429f17726e2c1d703
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Balcony_Post
+    100004: BalconyPost
+    100006: BalconyPost1
+    100008: BalconyPost10
+    100010: BalconyPost11
+    100012: BalconyPost12
+    100014: BalconyPost13
+    100016: BalconyPost14
+    100018: BalconyPost15
+    100020: BalconyPost2
+    100022: BalconyPost3
+    100024: BalconyPost4
+    100026: BalconyPost5
+    100028: BalconyPost6
+    100030: BalconyPost7
+    100032: BalconyPost8
+    100034: BalconyPost9
+    100036: BalconyPost_CrossBeam
+    100038: BalconyPost_CrossBeam1
+    100040: BalconyPost_CrossBeam10
+    100042: BalconyPost_CrossBeam11
+    100044: BalconyPost_CrossBeam2
+    100046: BalconyPost_CrossBeam3
+    100048: BalconyPost_CrossBeam4
+    100050: BalconyPost_CrossBeam5
+    100052: BalconyPost_CrossBeam6
+    100054: BalconyPost_CrossBeam7
+    100056: BalconyPost_CrossBeam8
+    100058: BalconyPost_CrossBeam9
+    100060: BalconyPost_X_beam
+    100062: BalconyPost_X_beam1
+    100064: door
+    100066: DoorHKnob
+    100068: FrontPorch
+    100070: FrontPorch_Roof
+    100072: group1
+    100074: group2
+    100076: MainBody
+    100078: MainRoof
+    100080: pCube1
+    100082: window
+    100084: window 1
+    100086: window 2
+    100088: window1
+    100090: windowcross_beam
+    100092: windowcross_beam 1
+    100094: windowcross_beam 2
+    100096: windowcross_beam1
+    100098: windowcross_beam1 1
+    100100: windowcross_beam1 2
+    100102: windowcross_beam2
+    100104: windowcross_beam3
+    100106: windows
+    100108: windows1
+    400000: //RootNode
+    400002: Balcony_Post
+    400004: BalconyPost
+    400006: BalconyPost1
+    400008: BalconyPost10
+    400010: BalconyPost11
+    400012: BalconyPost12
+    400014: BalconyPost13
+    400016: BalconyPost14
+    400018: BalconyPost15
+    400020: BalconyPost2
+    400022: BalconyPost3
+    400024: BalconyPost4
+    400026: BalconyPost5
+    400028: BalconyPost6
+    400030: BalconyPost7
+    400032: BalconyPost8
+    400034: BalconyPost9
+    400036: BalconyPost_CrossBeam
+    400038: BalconyPost_CrossBeam1
+    400040: BalconyPost_CrossBeam10
+    400042: BalconyPost_CrossBeam11
+    400044: BalconyPost_CrossBeam2
+    400046: BalconyPost_CrossBeam3
+    400048: BalconyPost_CrossBeam4
+    400050: BalconyPost_CrossBeam5
+    400052: BalconyPost_CrossBeam6
+    400054: BalconyPost_CrossBeam7
+    400056: BalconyPost_CrossBeam8
+    400058: BalconyPost_CrossBeam9
+    400060: BalconyPost_X_beam
+    400062: BalconyPost_X_beam1
+    400064: door
+    400066: DoorHKnob
+    400068: FrontPorch
+    400070: FrontPorch_Roof
+    400072: group1
+    400074: group2
+    400076: MainBody
+    400078: MainRoof
+    400080: pCube1
+    400082: window
+    400084: window 1
+    400086: window 2
+    400088: window1
+    400090: windowcross_beam
+    400092: windowcross_beam 1
+    400094: windowcross_beam 2
+    400096: windowcross_beam1
+    400098: windowcross_beam1 1
+    400100: windowcross_beam1 2
+    400102: windowcross_beam2
+    400104: windowcross_beam3
+    400106: windows
+    400108: windows1
+    2100000: aiStandardSurface2
+    2100002: aiStandardSurface7
+    2100004: aiStandardSurface8
+    2100006: aiStandardSurface6
+    2100008: lambert1
+    2100010: aiStandardSurface5
+    2100012: aiStandardSurface4
+    2100014: aiStandardSurface3
+    2100016: aiStandardSurface1
+    2300000: BalconyPost
+    2300002: BalconyPost1
+    2300004: BalconyPost10
+    2300006: BalconyPost11
+    2300008: BalconyPost12
+    2300010: BalconyPost13
+    2300012: BalconyPost14
+    2300014: BalconyPost15
+    2300016: BalconyPost2
+    2300018: BalconyPost3
+    2300020: BalconyPost4
+    2300022: BalconyPost5
+    2300024: BalconyPost6
+    2300026: BalconyPost7
+    2300028: BalconyPost8
+    2300030: BalconyPost9
+    2300032: BalconyPost_CrossBeam
+    2300034: BalconyPost_CrossBeam1
+    2300036: BalconyPost_CrossBeam10
+    2300038: BalconyPost_CrossBeam11
+    2300040: BalconyPost_CrossBeam2
+    2300042: BalconyPost_CrossBeam3
+    2300044: BalconyPost_CrossBeam4
+    2300046: BalconyPost_CrossBeam5
+    2300048: BalconyPost_CrossBeam6
+    2300050: BalconyPost_CrossBeam7
+    2300052: BalconyPost_CrossBeam8
+    2300054: BalconyPost_CrossBeam9
+    2300056: BalconyPost_X_beam
+    2300058: BalconyPost_X_beam1
+    2300060: door
+    2300062: DoorHKnob
+    2300064: FrontPorch
+    2300066: FrontPorch_Roof
+    2300068: MainBody
+    2300070: MainRoof
+    2300072: pCube1
+    2300074: window
+    2300076: window 1
+    2300078: window 2
+    2300080: window1
+    2300082: windowcross_beam
+    2300084: windowcross_beam 1
+    2300086: windowcross_beam 2
+    2300088: windowcross_beam1
+    2300090: windowcross_beam1 1
+    2300092: windowcross_beam1 2
+    2300094: windowcross_beam2
+    2300096: windowcross_beam3
+    3300000: BalconyPost
+    3300002: BalconyPost1
+    3300004: BalconyPost10
+    3300006: BalconyPost11
+    3300008: BalconyPost12
+    3300010: BalconyPost13
+    3300012: BalconyPost14
+    3300014: BalconyPost15
+    3300016: BalconyPost2
+    3300018: BalconyPost3
+    3300020: BalconyPost4
+    3300022: BalconyPost5
+    3300024: BalconyPost6
+    3300026: BalconyPost7
+    3300028: BalconyPost8
+    3300030: BalconyPost9
+    3300032: BalconyPost_CrossBeam
+    3300034: BalconyPost_CrossBeam1
+    3300036: BalconyPost_CrossBeam10
+    3300038: BalconyPost_CrossBeam11
+    3300040: BalconyPost_CrossBeam2
+    3300042: BalconyPost_CrossBeam3
+    3300044: BalconyPost_CrossBeam4
+    3300046: BalconyPost_CrossBeam5
+    3300048: BalconyPost_CrossBeam6
+    3300050: BalconyPost_CrossBeam7
+    3300052: BalconyPost_CrossBeam8
+    3300054: BalconyPost_CrossBeam9
+    3300056: BalconyPost_X_beam
+    3300058: BalconyPost_X_beam1
+    3300060: door
+    3300062: DoorHKnob
+    3300064: FrontPorch
+    3300066: FrontPorch_Roof
+    3300068: MainBody
+    3300070: MainRoof
+    3300072: pCube1
+    3300074: window
+    3300076: window 1
+    3300078: window 2
+    3300080: window1
+    3300082: windowcross_beam
+    3300084: windowcross_beam 1
+    3300086: windowcross_beam 2
+    3300088: windowcross_beam1
+    3300090: windowcross_beam1 1
+    3300092: windowcross_beam1 2
+    3300094: windowcross_beam2
+    3300096: windowcross_beam3
+    4300000: MainBody
+    4300002: FrontPorch
+    4300004: FrontPorch_Roof
+    4300006: BalconyPost15
+    4300008: BalconyPost14
+    4300010: BalconyPost13
+    4300012: BalconyPost12
+    4300014: BalconyPost10
+    4300016: BalconyPost11
+    4300018: BalconyPost9
+    4300020: BalconyPost8
+    4300022: BalconyPost_X_beam1
+    4300024: BalconyPost_X_beam
+    4300026: BalconyPost_CrossBeam11
+    4300028: BalconyPost_CrossBeam10
+    4300030: BalconyPost_CrossBeam9
+    4300032: BalconyPost_CrossBeam8
+    4300034: BalconyPost_CrossBeam7
+    4300036: BalconyPost_CrossBeam6
+    4300038: BalconyPost_CrossBeam5
+    4300040: BalconyPost_CrossBeam4
+    4300042: BalconyPost_CrossBeam3
+    4300044: BalconyPost_CrossBeam2
+    4300046: BalconyPost_CrossBeam1
+    4300048: BalconyPost_CrossBeam
+    4300050: BalconyPost7
+    4300052: BalconyPost6
+    4300054: BalconyPost5
+    4300056: BalconyPost4
+    4300058: BalconyPost3
+    4300060: BalconyPost2
+    4300062: BalconyPost1
+    4300064: BalconyPost
+    4300066: window
+    4300068: windowcross_beam
+    4300070: windowcross_beam1
+    4300072: window
+    4300074: windowcross_beam
+    4300076: windowcross_beam1
+    4300078: window
+    4300080: windowcross_beam
+    4300082: windowcross_beam1
+    4300084: window1
+    4300086: windowcross_beam2
+    4300088: windowcross_beam3
+    4300090: door
+    4300092: DoorHKnob
+    4300094: MainRoof
+    4300096: pCube1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
