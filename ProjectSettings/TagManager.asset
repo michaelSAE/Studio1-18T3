@@ -25,17 +25,17 @@ TagManager:
   - UI
   - 
   - 
-  - Lighting
-  - Ground
-  - Postprocessing
-  - Room Objects
   - Static Objects
+  - Room Objects
+  - VR System
   - Lighting
   - Particles
   - Pacman
   - Pacman Screen
   - Teddy
+  - Triggers
   - Texts
+  - 
   - 
   - 
   - 
