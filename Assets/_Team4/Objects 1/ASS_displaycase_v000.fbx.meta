@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 3ef4ffb6d6365b74d88cc01b48aaec08
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: bottom_shelf
+    100004: displaycase_door_left
+    100006: displaycase_door_right
+    100008: displaycase_main
+    100010: displaycase_sliding_door
+    100012: door_left_knob
+    100014: door_right_knob
+    100016: top_shelf
+    400000: //RootNode
+    400002: bottom_shelf
+    400004: displaycase_door_left
+    400006: displaycase_door_right
+    400008: displaycase_main
+    400010: displaycase_sliding_door
+    400012: door_left_knob
+    400014: door_right_knob
+    400016: top_shelf
+    2100000: displaycase_main1
+    2100002: top_shelf1
+    2100004: bottom_shelf1
+    2100006: displaycase_sliding_door1
+    2100008: displaycase_door_left1
+    2100010: displaycase_door_right1
+    2100012: door_left_knob1
+    2100014: door_right_knob1
+    2300000: bottom_shelf
+    2300002: displaycase_door_left
+    2300004: displaycase_door_right
+    2300006: displaycase_main
+    2300008: displaycase_sliding_door
+    2300010: door_left_knob
+    2300012: door_right_knob
+    2300014: top_shelf
+    3300000: bottom_shelf
+    3300002: displaycase_door_left
+    3300004: displaycase_door_right
+    3300006: displaycase_main
+    3300008: displaycase_sliding_door
+    3300010: door_left_knob
+    3300012: door_right_knob
+    3300014: top_shelf
+    4300000: displaycase_main
+    4300002: top_shelf
+    4300004: bottom_shelf
+    4300006: displaycase_sliding_door
+    4300008: displaycase_door_left
+    4300010: displaycase_door_right
+    4300012: door_left_knob
+    4300014: door_right_knob
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 13ebb1dfd212dfd4ab6f50f716eb9df7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: blue
+    100004: end_1
+    100006: end_1 1
+    100008: end_1 2
+    100010: end_1 3
+    100012: end_1 4
+    100014: end_2
+    100016: end_2 1
+    100018: end_2 2
+    100020: end_2 3
+    100022: end_2 4
+    100024: end_3
+    100026: end_3 1
+    100028: end_4
+    100030: he
+    100032: left
+    100034: neon_sign
+    100036: neon_tubing
+    100038: oys
+    100040: sign_board
+    100042: t
+    100044: ter
+    100046: tubing
+    100048: tubing 1
+    100050: tubing 2
+    100052: tubing 3
+    100054: tubing 4
+    100056: tubing_border
+    100058: tubing_letter
+    400000: //RootNode
+    400002: blue
+    400004: end_1
+    400006: end_1 1
+    400008: end_1 2
+    400010: end_1 3
+    400012: end_1 4
+    400014: end_2
+    400016: end_2 1
+    400018: end_2 2
+    400020: end_2 3
+    400022: end_2 4
+    400024: end_3
+    400026: end_3 1
+    400028: end_4
+    400030: he
+    400032: left
+    400034: neon_sign
+    400036: neon_tubing
+    400038: oys
+    400040: sign_board
+    400042: t
+    400044: ter
+    400046: tubing
+    400048: tubing 1
+    400050: tubing 2
+    400052: tubing 3
+    400054: tubing 4
+    400056: tubing_border
+    400058: tubing_letter
+    2000000: left
+    2100000: tubing1
+    2100002: tubing_end
+    2100004: sign_board1
+    2300000: end_1
+    2300002: end_1 1
+    2300004: end_1 2
+    2300006: end_1 3
+    2300008: end_1 4
+    2300010: end_2
+    2300012: end_2 1
+    2300014: end_2 2
+    2300016: end_2 3
+    2300018: end_2 4
+    2300020: end_3
+    2300022: end_3 1
+    2300024: end_4
+    2300026: sign_board
+    2300028: tubing
+    2300030: tubing 1
+    2300032: tubing 2
+    2300034: tubing 3
+    2300036: tubing 4
+    2300038: tubing_border
+    3300000: end_1
+    3300002: end_1 1
+    3300004: end_1 2
+    3300006: end_1 3
+    3300008: end_1 4
+    3300010: end_2
+    3300012: end_2 1
+    3300014: end_2 2
+    3300016: end_2 3
+    3300018: end_2 4
+    3300020: end_3
+    3300022: end_3 1
+    3300024: end_4
+    3300026: sign_board
+    3300028: tubing
+    3300030: tubing 1
+    3300032: tubing 2
+    3300034: tubing 3
+    3300036: tubing 4
+    3300038: tubing_border
+    4300000: tubing
+    4300002: end_1
+    4300004: end_2
+    4300006: tubing
+    4300008: end_1
+    4300010: end_2
+    4300012: tubing
+    4300014: end_1
+    4300016: end_2
+    4300018: end_3
+    4300020: end_4
+    4300022: tubing
+    4300024: end_1
+    4300026: end_2
+    4300028: end_3
+    4300030: end_1
+    4300032: end_2
+    4300034: tubing
+    4300036: tubing_border
+    4300038: sign_board
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
