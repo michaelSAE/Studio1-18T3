@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: 42045dbdbdbe51f44973cb458bac8471
+guid: 47f342bb1eb452242848734d08eb19eb
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Chain3
-    100004: Frame
+    100000: Chain3
+    100002: Frame
+    100004: //RootNode
     100006: pGear1
     100008: pGear2
     100010: pGear3
@@ -18,9 +18,9 @@ ModelImporter:
     100024: WheelCon
     100026: WheelFrame1
     100028: WheelFrame2
-    400000: //RootNode
-    400002: Chain3
-    400004: Frame
+    400000: Chain3
+    400002: Frame
+    400004: //RootNode
     400006: pGear1
     400008: pGear2
     400010: pGear3
@@ -33,11 +33,11 @@ ModelImporter:
     400024: WheelCon
     400026: WheelFrame1
     400028: WheelFrame2
-    2100000: aiStandardSurface_Bicycke_SV
-    2100002: aiStandardSurface_Tyre
-    2100004: aiStandardSurface_Bicycke_Red
-    2100006: aiStandardSurface_Bicycke_BK
-    2100008: aiStandardSurface_Bicycke_DSV
+    2100000: blinn_Bicycke_SV
+    2100002: blinn_Bicycke_Red
+    2100004: blinn_Bicycke_BK
+    2100006: blinn_Bicycke_DSV
+    2100008: blinn_Tyre
     2300000: Chain3
     2300002: Frame
     2300004: pGear1
@@ -66,45 +66,45 @@ ModelImporter:
     3300022: WheelCon
     3300024: WheelFrame1
     3300026: WheelFrame2
-    4300000: Tyer
-    4300002: Frame
-    4300004: WheelCon
-    4300006: WheelCental1
-    4300008: WheelFrame1
-    4300010: WheelCental2
-    4300012: WheelFrame2
-    4300014: pGear1
-    4300016: pGear2
-    4300018: pGear3
-    4300020: pGear4
-    4300022: pGear5
-    4300024: pGear6
-    4300026: Chain3
+    4300000: Frame
+    4300002: WheelCon
+    4300004: WheelCental1
+    4300006: WheelFrame1
+    4300008: WheelCental2
+    4300010: WheelFrame2
+    4300012: pGear1
+    4300014: pGear2
+    4300016: pGear3
+    4300018: pGear4
+    4300020: pGear5
+    4300022: pGear6
+    4300024: Chain3
+    4300026: Tyer
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: aiStandardSurface_Bicycke_BK
+      name: blinn_Bicycke_BK
     second: {fileID: 2100000, guid: 43aa66100ae947e4b8ad8d0da1a96372, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: aiStandardSurface_Bicycke_DSV
+      name: blinn_Bicycke_DSV
     second: {fileID: 2100000, guid: 863c09ba5cbbf24409f85204e9975f0f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: aiStandardSurface_Bicycke_Red
+      name: blinn_Bicycke_Red
     second: {fileID: 2100000, guid: 63cdc33dbfcf5fa40a4743d39c343c9a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: aiStandardSurface_Bicycke_SV
+      name: blinn_Bicycke_SV
     second: {fileID: 2100000, guid: 7fde6791098cbc4409cf305cd15c41a5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: aiStandardSurface_Tyre
+      name: blinn_Tyre
     second: {fileID: 2100000, guid: afe81ec6d01dfad41ab982a3b83f2dfc, type: 2}
   materials:
     importMaterials: 1
